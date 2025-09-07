@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            This is a test of the Dokploy platform.
+            This is a test of the Dokploy platform. 2
           </li>
         </ol>
 
